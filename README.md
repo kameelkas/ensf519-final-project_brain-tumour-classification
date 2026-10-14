@@ -52,12 +52,3 @@ This was a collaborative 4-person group project for ENSF 519, with work distribu
 * **Frameworks & Libraries:** PyTorch, Torchvision, TorchInfo
 * **Image Processing:** OpenCV, Pillow, Imutils
 * **Metrics & Visualization:** Scikit-Learn, Matplotlib, Seaborn, TQDM
-
----
-
-## 📂 Repository Structure
-
-```text
-├── BrainTumourProject.ipynb                   # Custom CNN pipeline from scratch
-├── ENSF519_Final_Project_EfficientNetB0.ipynb # EfficientNet-B0 transfer learning pipeline
-└── README.md                                  # Project Documentation
